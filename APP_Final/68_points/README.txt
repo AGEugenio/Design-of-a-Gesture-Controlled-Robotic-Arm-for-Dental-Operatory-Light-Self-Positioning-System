@@ -1,3 +1,9 @@
+-------------------------------------------------------------------------------
+This 68-points folder is from https://github.com/GuoQuanhao/68_points
+*I can't upload the file, shape_predictor_68_face_landmarks.dat on this folder
+<br> you may get it from the said link
+-------------------------------------------------------------------------------
+
 中文（Chinese）
 
 将 shape_predictor_68_face_landmarks.dat 添加到各个文件夹
