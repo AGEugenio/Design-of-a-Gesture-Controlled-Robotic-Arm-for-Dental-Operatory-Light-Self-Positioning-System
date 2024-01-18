@@ -1,0 +1,6 @@
+
+<RCC>
+  <qresource prefix="img">
+    <file>team.png</file>
+  </qresource>
+</RCC>

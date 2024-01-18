@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="img">
+    <file>OFF.png</file>
+    <file>BATTERY.png</file>
+    <file>BRIGHT.png</file>
+    <file>VERY_BRIGHT.png</file>
+    <file>DIM.png</file>
+    <file>ON.png</file>
+  </qresource>
+</RCC>
+

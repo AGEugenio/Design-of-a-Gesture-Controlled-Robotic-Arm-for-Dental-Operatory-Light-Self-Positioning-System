@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="img">
+    <file>dev.png</file>
+    <file>lock.png</file>
+    <file>reboot.png</file>
+    <file>shutdown.png</file>
+    <file>power.png</file>
+  </qresource>
+</RCC>

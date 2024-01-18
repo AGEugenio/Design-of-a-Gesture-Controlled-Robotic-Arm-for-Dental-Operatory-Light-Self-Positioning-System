@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="img">
+    <file>settings.png</file>
+    <file>power.png</file>
+    <file>STATUS.png</file>
+    <file>ABOUT.png</file>
+  </qresource>
+</RCC>
