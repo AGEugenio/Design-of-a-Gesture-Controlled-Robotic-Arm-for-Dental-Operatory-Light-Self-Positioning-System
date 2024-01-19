@@ -1,6 +1,6 @@
 # Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System
 
-<p text-align= "justify">Lighting systems are critical tools in any healthcare setting, even in the orthodontic industry. To this day, 
+<p align= "justify">Lighting systems are critical tools in any healthcare setting, even in the orthodontic industry. To this day, 
 dental lights are still manually handled and adjusted, which causes inefficiency during dental operations. This 
 act also risks potential contamination between the equipment and the patient. Thus, there is a need for a 
 non-contact approach to manipulating the light’s position and focus. The project is a self-positioning system 
