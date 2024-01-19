@@ -1,10 +1,11 @@
 # Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System
 
-Lighting systems are critical tools in any healthcare setting, even in the orthodontic industry. To this day, 
+<p text-align= "justify">Lighting systems are critical tools in any healthcare setting, even in the orthodontic industry. To this day, 
 dental lights are still manually handled and adjusted, which causes inefficiency during dental operations. This 
 act also risks potential contamination between the equipment and the patient. Thus, there is a need for a 
 non-contact approach to manipulating the light’s position and focus. The project is a self-positioning system 
 for a robotic dental operatory light capable of automatically positioning the light to the patient’s mouth.<br>
+</p>
 <p align="center"width="100%">
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/7d49497b-3981-4f38-bdf4-98aae08052d4" width="50%" />
 <br>
