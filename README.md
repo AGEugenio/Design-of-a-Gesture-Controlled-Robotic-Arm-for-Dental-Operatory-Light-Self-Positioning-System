@@ -15,8 +15,16 @@
 </p>
 
 <p align="center"width="100%">
+
+![settings2](https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/05c4b4e2-753a-4185-9d4d-49f5783ede6b)
+
+![image](https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/556010e3-911f-491f-93da-73536ce5e5e7)
+
+
+<img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/5a8b4973-56d0-49b2-8f64-102036937959" width="40%" />
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/238e8762-6d0c-4243-bb82-b011413ede3f" width="40%" />
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/f63ee641-f4fe-4e82-927f-da0056aea15c" width="40%" />
+<img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/8d49a437-abdc-4e05-bc9e-e2334a9f5cd8" width="40%" />
 <br>
 <h6 align= "justify">These are some of the screenshot of the project's Graphical User Interface (GUI). This GUI is developed using Python programming language with the PyQt5 toolkit.</h6>
 <br>
