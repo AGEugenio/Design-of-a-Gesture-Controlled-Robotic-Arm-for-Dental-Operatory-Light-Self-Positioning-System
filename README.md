@@ -1,7 +1,7 @@
 # Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System
 
 <p align= "justify">
-<h5 align= "justify">In the world of healthcare, especially in orthodontics, lighting systems play a crucial role. Currently, the process of manually handling and adjusting dental lights poses challenges during operations and raises concerns about possible contamination. Recognizing these issues, our project aims to provide a solution—a robotic arm for dental operatory lights equipped with a self-positioning system. This innovation is capable of adjusting the dental light's position to lighten the patient's mouth, ensuring not just efficiency but a genuine commitment to the well-being of both practitioners and patients in the dental setting.</h5>
+<h5 align= "justify">In the world of healthcare, especially in orthodontics, lighting systems play a crucial role. Currently, the process of manually handling and adjusting dental lights poses challenges during operations and raises concerns about possible contamination. Recognizing these issues, our project aims to provide a solution—a robotic arm for dental operatory light equipped with a self-positioning system. This innovation is capable of adjusting the dental light's position to lighten the patient's mouth, ensuring not just efficiency but a genuine commitment to the well-being of both practitioners and patients in the dental setting.</h5>
 <br>
 <br>
 </p>
@@ -14,15 +14,6 @@
 <br>
 </p>
 
-
-<p align="center"width="100%">
-<img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/7d49497b-3981-4f38-bdf4-98aae08052d4" width="50%" />
-<br>
-<h6 align= "center">This is the testing of the device in a dental clinic.</h6>
-<br>
-</p>
- 
-  
 <p align="center"width="100%">
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/238e8762-6d0c-4243-bb82-b011413ede3f" width="40%" />
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/f63ee641-f4fe-4e82-927f-da0056aea15c" width="40%" />
@@ -30,7 +21,6 @@
 <h6 align= "justify">These are some of the screenshot of the project's Graphical User Interface (GUI). This GUI is developed using Python programming language with the PyQt5 toolkit</h6>
 <br>
 </p>
-
 
 <p align="center"width="100%">
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/83982304-bc88-4379-b7ba-3f0e64351ff6" width="30%" />
