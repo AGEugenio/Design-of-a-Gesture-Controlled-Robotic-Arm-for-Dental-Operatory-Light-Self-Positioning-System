@@ -7,11 +7,16 @@ In the world of healthcare, especially in orthodontics, lighting systems play a 
 </p>
 <p align="center"width="100%">
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/89759b97-fed6-446c-b659-b18897494041" width="50%" /> 
-<br> This is the final design of the device. The robotic arm was designed using Fusion 360 and sliced using CURA slicer. The sliced components were 3D printed using PLA Filaments. This arm holds the dental light and it can adjust the position of the light based on the given hand gesture and detected mouth position. It is equipped with a camera that serves as its eye, it captures the image of hand and face. This captured image is going to be processed and analyzed. Also for better user interaction, it has an LCD which displays the UI where the user may see a live preview of the camera feed, along with real-time detection of the face and hand.
+<br> 
+<h6 align= "justify">This is the final design of the device. The robotic arm was designed using Fusion 360 and sliced using CURA slicer. The sliced components were 3D printed using PLA Filaments. This arm holds the dental light and it can adjust the position of the light based on the given hand gesture and detected mouth position. It is equipped with a camera that serves as its eye, it captures the image of hand and face. This captured image is going to be processed and analyzed. Also for better user interaction, it has an LCD which displays the UI where the user may see a live preview of the camera feed, along with real-time detection of the face and hand.
+</h6>
+<br>
 <br>
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/7d49497b-3981-4f38-bdf4-98aae08052d4" width="50%" />
 <br>
-This is the testing of the device in a dental clinic.<br>
+This is the testing of the device in a dental clinic.
+<br>
+  <br>
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/238e8762-6d0c-4243-bb82-b011413ede3f" width="30%" />
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/f63ee641-f4fe-4e82-927f-da0056aea15c" width="30%" />
 <br>
