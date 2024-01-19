@@ -18,7 +18,7 @@
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/238e8762-6d0c-4243-bb82-b011413ede3f" width="40%" />
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/f63ee641-f4fe-4e82-927f-da0056aea15c" width="40%" />
 <br>
-<h6 align= "justify">These are some of the screenshot of the project's Graphical User Interface (GUI). This GUI is developed using Python programming language with the PyQt5 toolkit</h6>
+<h6 align= "justify">These are some of the screenshot of the project's Graphical User Interface (GUI). This GUI is developed using Python programming language with the PyQt5 toolkit.</h6>
 <br>
 </p>
 
