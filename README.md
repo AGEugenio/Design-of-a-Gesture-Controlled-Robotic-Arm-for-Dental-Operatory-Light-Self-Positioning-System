@@ -23,8 +23,8 @@
 </p>
 
 <p align="center"width="100%">
-<img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/83982304-bc88-4379-b7ba-3f0e64351ff6" width="30%" />
-<img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/c54f73d6-0951-4918-9bd9-805b2f58b178" width="30%"  />
+<img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/83982304-bc88-4379-b7ba-3f0e64351ff6" width="40%" />
+<img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/c54f73d6-0951-4918-9bd9-805b2f58b178" width="40%"  />
 <br>
 <h6 align= "justify">These show the real-time detection of the face and hand in the application. Here, an Open-Source Computer Vision (OpenCV) library was used for the reading and processing of the captured image in the system. Also, pre-built models from Mediapipe and OpenVINO were used for the face and hand detection. Moreover, the mouth landmarks in dlib’s 68-point model were used for mouth location.</h6>
 
