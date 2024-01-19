@@ -12,12 +12,13 @@ for a robotic dental operatory light capable of automatically positioning the li
 <br>
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/f63ee641-f4fe-4e82-927f-da0056aea15c" width="50%" />
 <br>
-<img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/91101d3f-6912-460f-bbda-8185d55ffaf3" width="50%" />
-<br>
-<img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/c54f73d6-0951-4918-9bd9-805b2f58b178" width="50%" />
-<br>
 <img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/83982304-bc88-4379-b7ba-3f0e64351ff6" width="50%" />
-<br>
+
+<img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/91101d3f-6912-460f-bbda-8185d55ffaf3" width="50%" />
+
+<img src="https://github.com/AGEugenio/Design-of-a-Gesture-Controlled-Robotic-Arm-for-Dental-Operatory-Light-Self-Positioning-System/assets/113889259/c54f73d6-0951-4918-9bd9-805b2f58b178" width="50%" />
+
+
 </p>
 
 
